@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ether-dice/static/css/main.0def4619.chunk.css",
+    "main.js": "/ether-dice/static/js/main.9c19a4fe.chunk.js",
+    "main.js.map": "/ether-dice/static/js/main.9c19a4fe.chunk.js.map",
+    "runtime-main.js": "/ether-dice/static/js/runtime-main.b430fe94.js",
+    "runtime-main.js.map": "/ether-dice/static/js/runtime-main.b430fe94.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/ether-dice/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.36628cbb.chunk.js": "/ether-dice/static/js/2.36628cbb.chunk.js",
+    "static/js/2.36628cbb.chunk.js.map": "/ether-dice/static/js/2.36628cbb.chunk.js.map",
+    "index.html": "/ether-dice/index.html",
+    "precache-manifest.a6b4a6b12e356b7bb696bfee53899beb.js": "/ether-dice/precache-manifest.a6b4a6b12e356b7bb696bfee53899beb.js",
+    "service-worker.js": "/ether-dice/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/ether-dice/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.0def4619.chunk.css.map": "/ether-dice/static/css/main.0def4619.chunk.css.map",
+    "static/js/2.36628cbb.chunk.js.LICENSE.txt": "/ether-dice/static/js/2.36628cbb.chunk.js.LICENSE.txt",
+    "static/media/dice.webp": "/ether-dice/static/media/dice.fc8d2280.webp",
+    "static/media/dice_logo.png": "/ether-dice/static/media/dice_logo.53f49b58.png",
+    "static/media/dice_rolling.gif": "/ether-dice/static/media/dice_rolling.531c2648.gif",
+    "static/media/eth.png": "/ether-dice/static/media/eth.cd488de3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b430fe94.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.36628cbb.chunk.js",
+    "static/css/main.0def4619.chunk.css",
+    "static/js/main.9c19a4fe.chunk.js"
+  ]
+}
